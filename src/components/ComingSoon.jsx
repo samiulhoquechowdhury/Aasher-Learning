@@ -114,6 +114,7 @@ export default function ComingSoon() {
             <span className="bg-gradient-to-r from-[#0F62FE] via-[#1877F2] to-[#69B2FF] bg-clip-text text-transparent">
               Learning
             </span>{" "}
+            <br />
             Begins Here.
           </motion.h1>
 
